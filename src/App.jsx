@@ -3,7 +3,7 @@ import github from './assets/github.svg'
 import linkedin from './assets/linkedin.svg'
 import leetcode from './assets/leetcode.svg'
 import contact from './assets/contact.svg'
-import Cv from './components/cv'
+import Cv from './components/Cv'
 
 
 function App() {
